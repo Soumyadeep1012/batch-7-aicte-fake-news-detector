@@ -1,0 +1,10 @@
+# Ignore environment variables file
+.env
+train_model.py
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
