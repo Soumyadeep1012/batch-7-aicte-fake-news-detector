@@ -1,7 +1,7 @@
 streamlit
 scikit-learn
-pandas
-numpy
 newspaper3k
-nltk
-lxml_html_clean
+requests
+matplotlib
+lxml
+beautifulsoup4
