@@ -3,13 +3,11 @@ import pickle
 from urllib.parse import urlparse
 from newspaper import Article
 import requests
-from dotenv import load_dotenv
 import os
 import matplotlib.pyplot as plt
 from newspaper import Config
 
 
-load_dotenv()
 API_KEY = st.secrets.get("NEWS_API_KEY") # Add your own newsletter api key here, for the program to run in real-time fact checking.
                                     # or it will return to neutral score.
 # -----------------------------
