@@ -4,5 +4,6 @@ newspaper3k
 requests
 matplotlib
 lxml
+lxml_html_clean
 beautifulsoup4
 nltk
